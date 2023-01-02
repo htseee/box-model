@@ -42,7 +42,6 @@ body {
     margin: 0 auto;
     padding: 40px;
     text-align: center;
-    width: 400px;
     height: 1000px;
     overflow: scroll;
   }
@@ -75,8 +74,6 @@ body {
     color: grey;
     font-size: 16px;
     line-height: 48px;
-    margin-top: 60px;
-    padding: 10px 20px;
   }
   
   .pull-quote {
